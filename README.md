@@ -1,10 +1,8 @@
-# Bellybutton-Biodiversity
+# Bellybutton Biodiversity
 
 ## Overview
 
-A biological researcher has sampled the navels of volunteers. 
-
-She wants to create a webpage that best conveys data to her volunteers and other researchers.
+A biological researcher has sampled the navels of volunteers. She wants to create a webpage that best conveys data to her volunteers and other researchers.
 
 ### Purpose
 
@@ -25,5 +23,3 @@ Url to explore the data: https://heyheyelsie.github.io/Bellybutton-Biodiversity/
 - Use D3.json() to fetch external data, such as CSV files and web APIs.
 
 - Parse data in JSON format.
-
-
